@@ -9,10 +9,10 @@ Working :
 <br/>
 <ul>
 <li>Open Eyes</li>
-<img src="https://github.com/SuperThinking/driver-drowsiness-detection/blob/master/working_images/OpenEyes.png" width=400/>
+<img src="https://github.com/Ayaz3747/Drowsiness_Detection/blob/master/working_images/open%20eyes.png" width=400/>
 <br/>
 <li>Closed Eyes</li>
-<img src="https://github.com/SuperThinking/driver-drowsiness-detection/blob/master/working_images/ClosedEyes.png" width=400/>
+<img src="https://github.com/Ayaz3747/Drowsiness_Detection/blob/master/working_images/drowsy.png" width=400/>
 <br/>
 <li>Drowsiness Detection</li>
 <img src="https://github.com/SuperThinking/driver-drowsiness-detection/blob/master/working_images/Drowsy.png" width=400/>
